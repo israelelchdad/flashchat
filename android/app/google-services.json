@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "739356148870",
+    "firebase_url": "https://flash-chat-3fc27.firebaseio.com",
+    "project_id": "flash-chat-3fc27",
+    "storage_bucket": "flash-chat-3fc27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739356148870:android:63cb5501228b08f2e1bd07",
+        "android_client_info": {
+          "package_name": "co.israelelchdad.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739356148870-9tl44i522fbv71n2kfa832mngr7018qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjVvZtPBk7dLUTgopE6dXG2JI8JMp0Flk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739356148870-9tl44i522fbv71n2kfa832mngr7018qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
